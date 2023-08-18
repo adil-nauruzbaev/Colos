@@ -14,3 +14,8 @@ Writed Custom Map Widget with Static PolyLines
 ![qweqwee](https://github.com/adil-nauruzbaev/ColosFF/assets/106264625/bd4b7451-ba4e-44c1-a2d1-2f4ae23a1766)
 
 ![22131](https://github.com/adil-nauruzbaev/ColosFF/assets/106264625/f26add08-cbbf-4c28-9262-8f1c7486ed5a)
+
+Over 10+ API Calls
+
+![ewew](https://github.com/adil-nauruzbaev/ColosFF/assets/106264625/dd7718a4-2f8f-4e50-b899-3f02762bf709)
+
