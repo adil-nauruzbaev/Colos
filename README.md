@@ -5,6 +5,8 @@ I created an app that gives you a very clear understanding of your cargo deliver
 
 ![Снимок123](https://github.com/adil-nauruzbaev/ColosFF/assets/106264625/362e52c1-fa59-476f-ad89-264f968e7e3e)
 
+Writed Custom Map Widget with Static PolyLines
+
 ![Снимок133](https://github.com/adil-nauruzbaev/ColosFF/assets/106264625/401b6467-7eaf-47a6-8e1b-c318632051c2)
 
 ![333333333](https://github.com/adil-nauruzbaev/ColosFF/assets/106264625/7b8df71c-acc6-4f3c-953b-744065e385b5)
