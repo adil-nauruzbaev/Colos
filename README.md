@@ -1,4 +1,4 @@
-# ColosFF
+# Colos
 
 The company Colos is engaged in logistics services in Kazakhstan and around the world. It was necessary to create an application that would meet all modern requirements for cargo tracking.
 I created an app that gives you a very clear understanding of your cargo delivery, with a feature-rich but easy-to-understand design.
@@ -9,7 +9,7 @@ Writed Custom Map Widget with Static PolyLines
 
 ![Снимок133](https://github.com/adil-nauruzbaev/ColosFF/assets/106264625/d60c7723-c847-482e-910a-5f1485c501b8)
 
-![22131](https://github.com/adil-nauruzbaev/ColosFF/assets/106264625/f26add08-cbbf-4c28-9262-8f1c7486ed5a)
+
 
 Over 10+ API Calls
 
