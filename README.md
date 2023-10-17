@@ -10,6 +10,7 @@ Writed Custom Map Widget with Static PolyLines
 ![Снимок133](https://github.com/adil-nauruzbaev/ColosFF/assets/106264625/d60c7723-c847-482e-910a-5f1485c501b8)
 
 
+![image](https://github.com/adil-nauruzbaev/Colos/assets/106264625/9e045f2d-6ab5-4e7a-95e7-195a67987aa7)
 
 
 
